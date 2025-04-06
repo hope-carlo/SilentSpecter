@@ -1,0 +1,4 @@
+Pyro4==4.82
+pynput==1.7.6
+opencv-python==4.9.0.80
+numpy==1.26.4
